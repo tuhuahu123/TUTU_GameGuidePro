@@ -74,13 +74,13 @@ GGP 游戏指南插件为 Unreal Engine 项目提供了一个简单且高效的�
 以下是插件界面的一些截图，展示了插件的使用效果和界面样式：
 
 - **局内显示**  
-  ![局内显示](F:/TUTU_GameGuidePro/images/局内显示.png)
+  ![局内显示](images/局内显示.png)
 
 - **插件样式**  
-  ![插件样式](F:/TUTU_GameGuidePro/images/插件样式.png)
+  ![插件样式](images/插件样式.png)
 
 - **蓝图介绍**  
-  ![蓝图介绍](F:/TUTU_GameGuidePro/images/蓝图介绍.png)
+  ![蓝图介绍](images/蓝图介绍.png)
 
 ---
 
